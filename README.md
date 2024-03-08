@@ -5,7 +5,7 @@
 # John Doe
 *Développeur web junior, en formation "Développement Web et Accessibilité"*
 
-[Acceuil]() - [Projet]() - [CV]() - [Contact]()
+[Acceuil](/README.md) - [Projet](/projet.md) - [CV](/CV.md) - [Contact](/Contact.md)  
 
 ## Presentation :
 
@@ -16,5 +16,5 @@ tincidunt. Aenean dictum quis velit sagittis tempor. Suspendisse potenti.
 sagittis urna vel, facilisis ligula. Fusce posuere elementum commodo. Cras vehicula dapibus leo et fringilla.  
 
 
-©️ 2022 - John Doe - [Me contacter]()
+©️ 2022 - John Doe - [Me contacter](/Contact.md)
 
