@@ -11,7 +11,6 @@
 | Client | Dates |Technologie | Lien |
 | ----------- | ----------- |----------- | ----------- |
 | Microsoft | 2022 |HTML, SASS, JavaScript | [Microsoft](www.microsoft.com/) |
-| Google | 2021 | Node.js | [Google](Www.google.com) |
 | Mme Michu | 2017 |HTML, CSS | [Mme Michu]() |  
 
 
